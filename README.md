@@ -1,16 +1,13 @@
-## Hello there! I'm Kalana Wijethunga
+### Hi, I'm Kalana Wijethunga
 
-<!--
-**kalana/kalana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solution Architect** · Agentic and GenAI, Cloud Solutions · Sri Lanka
 
-Here are some ideas to get you started:
+<sub>Architect and developer with 15+ years in software engineering, the last seven at architect level. I currently design and build agentic and GenAI solutions, including production LLM pipelines, RAG systems, and agentic workflows. My focus is on safe and secure AI in business workflows and engineering practices.</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>My background includes enterprise integration, event-driven and resilient cloud systems, and cloud migration and modernisation. I work directly with client technology leadership and enterprise architecture groups.</sub>
+
+<sub>
+  <a href="https://www.linkedin.com/in/kalanaw/">LinkedIn</a> ·
+  <a href="https://kalanawijethunga.medium.com/">Medium</a> ·
+  <a href="https://x.com/kalanawij">X (Twitter)</a>
+</sub>
