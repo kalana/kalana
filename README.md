@@ -9,5 +9,6 @@
 <sub>
   <a href="https://www.linkedin.com/in/kalanaw/">LinkedIn</a> ·
   <a href="https://kalanawijethunga.medium.com/">Medium</a> ·
-  <a href="https://x.com/kalanawij">X (Twitter)</a>
+  <a href="https://x.com/kalanawij">X (Twitter)</a> ·
+  <a href="https://kalana.github.io/">GitHub Page</a>
 </sub>
